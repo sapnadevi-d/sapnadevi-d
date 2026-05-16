@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hey there, welcome to my GitHub! 😊
 
-<!--
-**sapnadevi-d/sapnadevi-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about uncovering the stories hidden within data and numbers. I enjoy learning new technologies that help me better understand data and transform insights into meaningful decisions.
 
-Here are some ideas to get you started:
+Here, you’ll find:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects I’m building in data analytics
+📈 Dashboards and visualizations designed to uncover insights
+🌱 Skills, tools, and concepts I’m exploring along the way
+
+I’m continuously learning, improving, and building — one project at a time.
+
+Thanks for stopping by!
