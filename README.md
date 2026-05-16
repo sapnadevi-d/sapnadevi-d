@@ -5,7 +5,9 @@ I’m passionate about uncovering the stories hidden within data and numbers. I 
 Here, you will find:
 
 📊 Projects I’m building in data analytics
+
 📈 Dashboards and visualizations designed to uncover insights
+
 🌱 Skills, tools, and concepts I’m exploring along the way
 
 I’m continuously learning, improving, and building- one project at a time.
